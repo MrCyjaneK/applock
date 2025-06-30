@@ -21,6 +21,7 @@ dependencies:
     git:
       url: https://github.com/mrcyjanek/flutter_android_native_settings_properties
       ref: 265baa9a9a7014fe2c29da6789014c90ba641dbb
+  flutter_svg: ^2.0.0
 
 dev_dependencies:
   flutter_test:
